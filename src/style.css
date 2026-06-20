@@ -28,7 +28,6 @@ body {
   min-height: 100vh;
 }
 
-/* 滚动条美化 */
 ::-webkit-scrollbar {
   width: 8px;
 }

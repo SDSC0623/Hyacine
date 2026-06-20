@@ -244,7 +244,6 @@ const downloadImage = () => {
   color: #bbb;
 }
 
-/* Lightbox */
 .lightbox {
   position: fixed;
   inset: 0;
