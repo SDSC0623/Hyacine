@@ -13,7 +13,7 @@
         </div>
       </div>
       <div class="footer-bottom">
-        <p>© 2026 风堇角色展示页 | 崩坏：星穹铁道同人作品 | 作者： <a href="https://example.com" target="_blank" class="author-link">SDSC0623</a></p>
+        <p>© 2026 风堇角色展示页 | 崩坏：星穹铁道同人作品 | 作者： <a href="https://github.com/SDSC0623" target="_blank" class="author-link">SDSC0623</a></p>
         <p class="footer-note">本页面仅为粉丝制作，角色版权归米哈游所有</p>
       </div>
     </div>
