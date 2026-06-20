@@ -87,13 +87,13 @@
 }
 
 .author-link {
-  color: #539FFD;
+  color: #ff9a9e;
   text-decoration: none;
   transition: color 0.3s ease;
 }
 
 .author-link:hover {
-  color: #ff9a9e;
+  color: #539FFD;
 }
 
 .footer-note {
